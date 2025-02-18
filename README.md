@@ -96,5 +96,5 @@ This analysis helps understand how major Bitcoin transactions impact price movem
 | Chart | Description |
 |-------|------------|
 | ![BTC Price Change](https://github.com/ishatubarry/whale-transactions-analysis/blob/main/Screenshot 2025-02-17 at 19.08.01.png) | BTC price before & after whale transactions |
-| ![Whale Transactions vs BTC](https://github.com/ishatubarry/whale-transactions-analysis/blob/main/)Screenshot 2025-02-17 at 19.08.07.png| Whale transactions vs. BTC price |
-| ![Scatter Plot](https://github.com/ishatubarry/whale-transactions-analysis/blob/main/| Whale transactions vs. BTC price change |
+| ![Whale Transactions vs BTC](https://github.com/ishatubarry/whale-transactions-analysis/blob/main/Screenshot 2025-02-17 at 19.08.07.png| Whale transactions vs. BTC price |
+| ![Scatter Plot](https://github.com/ishatubarry/whale-transactions-analysis/blob/main/|Screenshot 2025-02-17 at 19.08.10.pngWhale transactions vs. BTC price change |
